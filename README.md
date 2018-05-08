@@ -6,4 +6,4 @@ For example, given in input the *Chord.wav* recording [Wav file ](Chord-Recognit
 
 :notes: The chord is: Major F#/Gb, composed by these 3 notes: F#/Gb, A#/Bb, C#/Db, >> :guitar:
 
-![alt](/Users/alfonsodamelio/Desktop/matlab.jpg)
+![](/Users/alfonsodamelio/Desktop/matlab.jpg)
